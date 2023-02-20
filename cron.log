@@ -1,0 +1,4 @@
+19/02/2023 10:10:01 Notification de "R\u00E9gler le probl\u00E8me avec l'adresse analyse-musicale.fr" avec les params: {:title=>"TASK  (rappel)", :sender=>"phil.app.MyTaches", :subtitle=>"CAMI"}
+19/02/2023 10:10:01 RAPPEL [bugmailcami] Régler le problème avec l'adresse analyse-musicale.fr
+19/02/2023 10:10:01 Notification de "Cr\u00E9er les nouveaux modules pour l'atelier Icare" avec les params: {:title=>"TASK  (rappel)", :sender=>"phil.app.MyTaches", :execute=>"run new-atelier-icare", :subtitle=>"Atelier Icare"}
+19/02/2023 10:10:01 RAPPEL [newmodulesicare] Créer les nouveaux modules pour l'atelier Icare
